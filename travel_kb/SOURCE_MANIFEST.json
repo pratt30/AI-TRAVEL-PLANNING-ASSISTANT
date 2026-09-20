@@ -1,0 +1,30 @@
+{
+  "destination": "Singapore",
+  "documents": [
+    [
+      "01_wikivoyage_singapore.md",
+      "Wikivoyage \u2014 Singapore Travel Guide",
+      "https://en.wikivoyage.org/wiki/Singapore"
+    ],
+    [
+      "02_visitsingapore_essential.md",
+      "Visit Singapore \u2014 Essential Singapore Travel Information",
+      "https://www.visitsingapore.com/travel-tips/essential-travel-information/"
+    ],
+    [
+      "03_visitsingapore_itineraries.md",
+      "Visit Singapore \u2014 Singapore Itineraries",
+      "https://www.visitsingapore.com/travel-tips/travelling-to-singapore/itineraries/"
+    ],
+    [
+      "04_visitsingapore_family.md",
+      "Visit Singapore \u2014 Family Getaway / Places to Visit With Family",
+      "https://www.visitsingapore.com/content/visitsingapore/en/travel-tips/travelling-to-singapore/itineraries/places-to-visit-with-family/"
+    ],
+    [
+      "05_visitsingapore_activities.md",
+      "Visit Singapore \u2014 Things to Do / Family and Cultural Activities",
+      "https://www.visitsingapore.com/content/visitsingapore/en/things-to-do/top-things-to-do/family-fun/"
+    ]
+  ]
+}
